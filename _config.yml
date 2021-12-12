@@ -83,12 +83,12 @@ author:
   name             : "Niclas Rieger"
   avatar           : "profile-square.jpg"
   bio              : "PhD student"
-  location         : "Barcelona"
-  employer         : "Centre de Recerca Matemàtica (CRM)"
+  location         : "CRM, Barcelona (Spain)"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=X0gWIOUAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Niclas-Rieger"
   uri              :
   bitbucket        :
   codepen          :
