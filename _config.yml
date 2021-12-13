@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Niclas"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Niclas Rieger"
 description              : &description "personal description"
