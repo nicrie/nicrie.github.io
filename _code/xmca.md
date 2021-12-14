@@ -104,6 +104,9 @@ Nevertheless, complex MCA does not hurt. Even in the case of very broadband mode
 <b>Colormaps</b>: The colormaps used here are all from [cmocean][cmocean]. Kudos to the [developer](https://twitter.com/thyngkm) for making their extremely aesthetic taste available to the masses.
 {: .notice}
 
+<b>Funding</b>: This work is part of the Climate Advanced Forecasting of Sub-Seasonal Extremes ([CAFE](www.cafes2se-itn.eu/)) project. We gratefully acknowledge funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie Grant Agreement 813844.
+{: .notice}
+
 
 [rieger21]: https://doi.org/10.1175/JCLI-D-21-0244.1
 
