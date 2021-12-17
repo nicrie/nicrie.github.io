@@ -47,7 +47,7 @@ The real PCs of both fields of mode 1 are characterized by an oscillation with a
 ![mode1-real-pcs](/images/xmca/mode1-real-pcs.jpg)
 
 ### Spatial amplitude
-In analogy to the EOFs of standard MCA, the spatial amplitude $A_s$ provides a means to understand which regions contribute the most to the given mode. The spatial amplitude is easily computed via the complex $\text{PC}$ and the complex conjugate $\text{PC}^*$.
+In analogy to the EOFs of standard MCA, the spatial amplitude $A_s$ provides a means to understand which regions contribute the most to the given mode. The spatial amplitude is easily computed via the complex $\text{EOF}$ and the complex conjugate $\text{EOF}^*$.
 
 \begin{equation}
 A_s = \left( \text{EOF} \times \text{EOF}^* \right)^{1/2}
